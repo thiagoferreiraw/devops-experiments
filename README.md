@@ -40,10 +40,10 @@ I'll be using this repo to keep track of my devops studies, save code snippets, 
 * [x] Setup my local network to access the application
 - - Question: why 127.0.0.1 wont't work and 0.0.0.0 works?
 - - [forward ports](https://www.howtogeek.com/122641/how-to-forward-ports-to-a-virtual-machine-and-use-it-as-a-server/) 
-- [ ] Fine tuning
-- - Create a gunicorn service
+- [x] Fine tuning
+- - Create a gunicorn/nginx service
+- - Install a [self signed ssl certificate](https://www.digitalocean.com/community/tutorials/how-to-create-a-self-signed-ssl-certificate-for-nginx-in-ubuntu-16-04)
 - - Create a domain
-- - Install nginx
 - - Automate deploy with a provision tool
 - - https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu-16-04
 - - apt instal nginx
