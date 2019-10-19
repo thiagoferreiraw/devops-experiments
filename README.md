@@ -9,6 +9,11 @@ I'll be using this repo to keep track of my devops studies, save code snippets, 
 - Improve my skills with linux, network, containers and devops.
 - Share my findings with whoever is interested
 
+## Related repos
+
+- [django-todo-list](https://github.com/thiagoferreiraw/django-todo-list)
+- [locust-stress-test](https://github.com/thiagoferreiraw/locust-stress-test)
+
 ## Tasks
 
 ### Deploy a django application in a debian distro
